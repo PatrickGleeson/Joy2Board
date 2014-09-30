@@ -1,0 +1,116 @@
+Device
+(Gameasia
+
+Groups
+axis		5	-32767	D-Pad Up
+axis		4	-32767	D-Pad Left
+axis		4	32767		D-Pad Right
+axis		5	32767		D-Pad Down 
+axis		1	-32767	Left Analog Up
+axis		0	-32767	Left Analog Left
+axis		0	32767		Left Analog Right
+axis		1	32767		Left Analog Down
+button	8	1			Select
+
+Members
+button	0	1			Triangle
+button	3	1			Square
+button	1	1			Circle
+button	2	1			Cross
+axis		2	-32767	Right Analog Up
+axis		3 	-32767	Right Analog Left
+axis		3	32767		Right Analog Right
+axis		2	32767		Right Analog Down
+button	9	1			Start
+
+Solos
+button	6	1			Control_L			L1
+button	7	1			Shift_L				R1
+button	4	1			Meta_L				L2
+button	5	1			Alt_L					R2
+button	10	1			BackSpace			L3
+button	11	1			space					R3
+
+Keystrokes
+0	0	a
+0	1	o
+0	2	i
+0	3	e
+0	4	q
+0	5	z
+0	6	w
+0	7	y
+0	8	u
+1	0	b
+1	1	p
+1	2	f
+1	3	l
+1	4	d
+1	5	k
+1	6	g
+1	7	n
+1	8	m
+2	0	h
+2	1	c
+2	2	t
+2	3	s
+2	4	F30
+2	5	x
+2	6	j
+2	7	v
+2	8	r
+3	0	BackSpace Bksp
+3	1	Insert Ins
+3	2	Delete Del
+3	3	space Spc
+3	4	equal =
+3	5	backslash \\
+3	6	slash /
+3	7	minus -
+3	8	Tab
+4	0	F4
+4	1	F3
+4	2	F2
+4	3	F1
+4	4	F8
+4	5	F7
+4	6	F6
+4	7	F5
+4	8	Escape Esc
+5	0	4
+5	1	3
+5	2	2
+5	3	1
+5	4	8
+5	5	7
+5	6	6
+5	7	5
+5	8	9
+6	0	apostrophe '
+6	1	semicolon ;
+6	2	period .
+6	3	comma ,
+6	4	grave `
+6	5	bracketleft [
+6	6	bracketright ]
+6	7	F29
+6	8	0
+7	0	F12
+7	1	F11
+7	2	F10
+7	3	F9
+7	4	Caps_Lock Caps
+7	5	Scroll_Lock Scroll
+7	6	Num_Lock Num
+7	7	PrintScreen PrtScn
+7	8	Pause
+8	0	Page_Up PgUp
+8	1	Home
+8	2	End
+8	3	Page_Down PgDown
+8	4	Up
+8	5	Left
+8	6	Right
+8	7	Down
+8	8	Return
+Done

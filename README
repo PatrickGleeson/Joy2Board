@@ -1,0 +1,10 @@
+#Joy 2 Board
+
+Joy 2 Board is a bash script designed to use a game input device (joystick or gamepad) to emulate a keyboard. It 
+uses "groups" (selected by one set of inputs) which have several "members" (selected by a second set of inputs). In 
+this way, the number of possible selections is the multiplication of these two sets. Thus 8 "group" inputs and 8 
+"member" inputs will allow for a total of 64 possible selections. Each selection is bound to a specific keystroke. 
+Additionally, the script supports the use of solo inputs, where a game device input will be individual bound to a 
+keystroke.
+
+This script relies on the linux utility jstest to read in game device input.
